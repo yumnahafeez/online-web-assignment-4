@@ -1,0 +1,123 @@
+body{
+    color: #33475b !important;
+    font-size: 1.125rem;
+}
+
+
+.navbar {
+    background-color: #4169E1 !important
+}
+
+.nav-link {
+    color: white !important; 
+/*    font-weight: bold;*/
+}
+. fa-facebook-official {
+    font-size: 32px !important
+}
+
+.carousel-item {
+    font-size: larger;
+    font: bold ;
+}
+
+.carousel-inner .carousel-item{
+    /* height:450px !important; */
+    background-size:cover;
+    background-position: center;
+    }
+
+.fa fa-address-card-o{
+    font-size: larger;
+
+}
+    
+
+
+    
+
+
+#welcome, #vision{
+    margin: 40px 0px 0px 0px !important
+}
+
+#welcome-div p{
+    font-size: 1.125rem;
+    /* text-align: left; */
+    line-height: 1.5;
+}
+#motto-div p{
+    font-size: 1.125rem;
+    /* text-align: left; */
+    line-height: 1.5;
+}
+
+#welcome-div h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#motto-div h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.welcom-img{
+    width: 650px;
+    height: 300px;
+    
+}
+
+
+.motto-img{
+    /* border-radius: 235px !important; */
+     width: 650px;
+     height: 300px;
+}
+
+#vision-div{
+
+}
+
+.images{
+    text-align: center !important;
+}
+
+.page-admission h1{
+    background-color: #4169E1
+}
+
+
+footer{
+    margin: 45px 0 0 0;
+    background: rgba(255, 255, 0, 0.808);
+    color: black;
+    font-weight: bolder;
+}
+
+
+
+.page-heading{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.page-content{
+    margin: 10px 0 0 0;
+    padding: 45px;
+}
+
+a.btn.btn-primary {
+    background: royalblue;
+    color: #ffffff;
+    border: 1px solid royalblue;
+    border-radius: 0px;
+}
+
+
+@media (max-width: 768px) {
+  .hidden-xs-down {
+    display: none !important;
+  }
+}
